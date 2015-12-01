@@ -1,4 +1,4 @@
-**NOTE:** *This repository exists due to Jenkins CI testing. It will be removed once it's set up.*
+**NOTE:** This repository exists due to Jenkins CI testing. It will be removed once it's set up.
 
 [![build status](https://phatina.fedorapeople.org/jenkins/storaged/build.svg)](https://phatina.fedorapeople.org/jenkins/storaged/build.svg)
 
