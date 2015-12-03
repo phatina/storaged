@@ -80,7 +80,7 @@ struct _StoragedDaemon
   gboolean disable_modules;
   gboolean force_load_modules;
   gboolean uninstalled;
-};
+}
 
 struct _StoragedDaemonClass
 {
