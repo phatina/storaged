@@ -76,7 +76,7 @@ struct _StoragedObjectInfo
   GIcon *media_icon_symbolic;
   gchar *one_liner;
   gchar *sort_key;
-}
+};
 
 typedef struct _StoragedObjectInfoClass StoragedObjectInfoClass;
 
